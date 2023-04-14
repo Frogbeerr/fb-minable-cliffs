@@ -1,0 +1,8 @@
+{
+    "name": "fb-minable-cliffs",
+    "version": "0.0.1",
+    "title": "Frog's Minable Cliffs",
+    "author": "Frogbeerr",
+    "factorio_version": "1.1",
+    "dependencies": ["base"]
+}
